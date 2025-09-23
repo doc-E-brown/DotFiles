@@ -1,0 +1,6 @@
+[build]
+target-dir = "/home/ben/.cargo/target"
+jobs = 8
+
+[registries]
+franklin-ai-rosalind = { index = "https://dl.cloudsmith.io/QofL8n0Xih4CyXBc/franklin-ai/rosalind/cargo/index.git" }

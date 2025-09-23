@@ -1,3 +1,0 @@
-[submodule "/home/ben/.config/nvim"]
-	path = /home/ben/.config/nvim
-	url = git@github.com:doc-E-brown/NeoVimConfig.git
