@@ -1,0 +1,8 @@
+[credential]
+	helper = store
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+[commit]
+	gpgsign = true
