@@ -160,7 +160,9 @@ function rosredis() {
 function rosredis_cli() {
 	redis-cli -p $1 -a $2 
 }
-
+alias mkpr='gh pr create -w'
+alias vgh='gh repo view --web'
+alias lg='lazygit'
 
 #export EMSDK_QUIET=1
 #source "/home/ben/Workspace/emsdk/emsdk_env.sh"
